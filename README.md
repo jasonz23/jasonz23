@@ -1,14 +1,11 @@
-
-<h3 title="hehehe"> Hey 👋, I'm Jason!</h3> 
-<img alt="profile" src="https://avatars.githubusercontent.com/u/94204700?v=4" width="200" height"200"/>
-
+<h3 align="left" title="hehehe"> Hey 👋, I'm Jason!</h3> 
 
 <br />
 
-A **Full Stack Developer** 🚀.
+***A Full Stack Developer*** 🚀.
  
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="profile" src="https://avatars.githubusercontent.com/u/94204700?v=4" width="300" height="300" />
 
 **About Me!**
 
