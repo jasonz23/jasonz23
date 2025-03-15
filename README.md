@@ -9,9 +9,8 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a third year at The University of British Columbia
-- 💖 My interest lies in front end and back end development.
-- 💬 Ask me about anything, I love to answer!
+- 💻 Frontend & Backend 
+- 💬 hmu, i am cool
 - 📫 Email me at [jason1382311@gmail.com](mailto:jason1382311@gmail.com).
 
 
